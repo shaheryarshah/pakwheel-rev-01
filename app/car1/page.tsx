@@ -8,7 +8,7 @@ export default function Car1 (){
             </h1 >
             </div>
             <div className="flex flex-col items-center ">
-            <img className="h-80 w-80"src="https://cache3.pakwheels.com/ad_pictures/1064/mercedes-benz-e-class-e-250-2011-106415955.webp" alt="Load Image" />
+            <image className="h-80 w-80"src="https://cache3.pakwheels.com/ad_pictures/1064/mercedes-benz-e-class-e-250-2011-106415955.webp" alt="Load Image" />
             </div>
         
         <div>
