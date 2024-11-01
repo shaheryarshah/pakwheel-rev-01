@@ -45,7 +45,7 @@ export default function Home() {
       <div className="flex flex-row gap-60 px-20">
       <div className="">
       <ul >
-        <li className="h-60 w-60 cursor-pointer"><img src="https://cache3.pakwheels.com/ad_pictures/1064/mercedes-benz-e-class-e-250-2011-106415955.webp" alt="Loading" /></li>
+        <li className="h-60 w-60 cursor-pointer"><image src="https://cache3.pakwheels.com/ad_pictures/1064/mercedes-benz-e-class-e-250-2011-106415955.webp" alt="Loading" /></li>
       </ul>
       <ul className="text-blue-800 font-bold">
       <Link href="http://localhost:3000/car1">Mercedes Benz E Class 2011</Link>
@@ -55,7 +55,7 @@ export default function Home() {
       </div>
       <div>
         <ul>
-        <li className="h-60 w-60  cursor-pointer"><img src="https://cache4.pakwheels.com/ad_pictures/1102/honda-life-c-2014-110244082.webp" alt="Loading" /></li>
+        <li className="h-60 w-60  cursor-pointer"><image src="https://cache4.pakwheels.com/ad_pictures/1102/honda-life-c-2014-110244082.webp" alt="Loading" /></li>
       </ul>
       <ul className="text-blue-800 font-bold">
       <Link href="http://localhost:3000/car2">Honda Life 2014</Link>
@@ -65,7 +65,7 @@ export default function Home() {
       </div>
       <div>
         <ul>
-        <li className="h-60 w-60 cursor-pointer"><img src="https://cache4.pakwheels.com/ad_pictures/1073/honda-civic-vti-oriel-automatic-2000-107376631.webp" alt="Loading" /></li>
+        <li className="h-60 w-60 cursor-pointer"><image src="https://cache4.pakwheels.com/ad_pictures/1073/honda-civic-vti-oriel-automatic-2000-107376631.webp" alt="Loading" /></li>
       </ul>
       <ul className="text-blue-800 font-bold">
       <Link href="http://localhost:3000/car3">Honda Civic 2000</Link>
@@ -75,7 +75,7 @@ export default function Home() {
       </div>
       <div>
         <ul>
-        <li className="h-60 w-60 cursor-pointer"><img src="https://cache4.pakwheels.com/ad_pictures/1106/audi-e-tron-50-quattro-sportback-230kw-2023-110636921.webp" alt="Loading" /></li>
+        <li className="h-60 w-60 cursor-pointer"><image src="https://cache4.pakwheels.com/ad_pictures/1106/audi-e-tron-50-quattro-sportback-230kw-2023-110636921.webp" alt="Loading" /></li>
       </ul>
       <ul className="text-blue-800 font-bold">
         <li>
