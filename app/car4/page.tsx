@@ -8,7 +8,7 @@ export default function Car4 (){
             </h1 >
             </div>
             <div className="flex flex-col items-center ">
-            <img className="h-80 w-80"src="https://cache4.pakwheels.com/ad_pictures/1106/audi-e-tron-50-quattro-sportback-230kw-2023-110636921.webp" alt="Load Image" />
+            <image className="h-80 w-80"src="https://cache4.pakwheels.com/ad_pictures/1106/audi-e-tron-50-quattro-sportback-230kw-2023-110636921.webp" alt="Load Image" />
             </div>
         
         <div>
