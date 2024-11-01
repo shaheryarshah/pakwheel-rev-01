@@ -1,3 +1,4 @@
+import Link from "next/link"
 export default function Form() {
   return (
     <main className="bg-gray-400 min-h-screen ">
@@ -11,6 +12,8 @@ export default function Form() {
         </div>
         <div className="">
         <button className="p-5 bg-blue-500 rounded-xl">Place your order Now</button>
+        <Link  href="http://localhost:3000/thankyou">Click Here</Link>
+        
         </div>
       </div>
     </main>

@@ -16,10 +16,10 @@ export default function Home() {
       <form className="flex flex-col w-3/3 justify-center items-center mt-5">
         <input type="text" className="flex flex-col w-2/5 bg-blue-200 shadow-lg border-2 text-black" />
       </form>
-      <div className="flex flex-col items-center">
+      <div className="flex flex-col items-center  ">
       <button className="flex border-1 p-2 rounded-xl bg-blue-500 m-10 justify-between">Advanced Filter</button>
       </div>      
-      <h1 className="font-bold text-center text-2xl">Sell Your Car on PakWheels and Get the Best Price</h1>
+      <h1 className="font-bold text-center text-2xl shadow-lg">Sell Your Car on PakWheels and Get the Best Price</h1>
       <div className="flex justify-center items-center gap-40 mt-10">
 <div className="flex flex-col ">
       <ul className="border-2 shadow-lg border-gray-300 flex p-4 flex-col items-left ">
@@ -47,8 +47,8 @@ export default function Home() {
       <ul >
         <li className="h-60 w-60 cursor-pointer"><img src="https://cache3.pakwheels.com/ad_pictures/1064/mercedes-benz-e-class-e-250-2011-106415955.webp" alt="Loading" /></li>
       </ul>
-      <ul className="">
-      <Link href="http://localhost:3000/form">Mercedes Benz E Class 2011</Link>
+      <ul className="text-blue-800 font-bold">
+      <Link href="http://localhost:3000/car1">Mercedes Benz E Class 2011</Link>
         <li className="text-green-500">PKR 13,200,000</li>
         <li>Karachi</li>
       </ul>
@@ -57,8 +57,8 @@ export default function Home() {
         <ul>
         <li className="h-60 w-60  cursor-pointer"><img src="https://cache4.pakwheels.com/ad_pictures/1102/honda-life-c-2014-110244082.webp" alt="Loading" /></li>
       </ul>
-      <ul className="">
-      <Link href="http://localhost:3000/form">Honda Life 2014</Link>
+      <ul className="text-blue-800 font-bold">
+      <Link href="http://localhost:3000/car2">Honda Life 2014</Link>
         <li className="text-green-500">PKR 2,150,000</li>
         <li>Lahore</li>
       </ul>
@@ -67,8 +67,8 @@ export default function Home() {
         <ul>
         <li className="h-60 w-60 cursor-pointer"><img src="https://cache4.pakwheels.com/ad_pictures/1073/honda-civic-vti-oriel-automatic-2000-107376631.webp" alt="Loading" /></li>
       </ul>
-      <ul className="">
-      <Link href="http://localhost:3000/form">Honda Civic 2000</Link>
+      <ul className="text-blue-800 font-bold">
+      <Link href="http://localhost:3000/car3">Honda Civic 2000</Link>
         <li className="text-green-500">PKR 1,500,000</li>
         <li>Karachi</li>
       </ul>
@@ -77,9 +77,9 @@ export default function Home() {
         <ul>
         <li className="h-60 w-60 cursor-pointer"><img src="https://cache4.pakwheels.com/ad_pictures/1106/audi-e-tron-50-quattro-sportback-230kw-2023-110636921.webp" alt="Loading" /></li>
       </ul>
-      <ul className="">
+      <ul className="text-blue-800 font-bold">
         <li>
-        <Link href="http://localhost:3000/form">Audi e-tron 2023</Link></li>
+        <Link href="http://localhost:3000/car4">Audi e-tron 2023</Link></li>
         <li className="text-green-500">PKR 30,000,000</li>
         <li>Karachi</li>
       </ul>

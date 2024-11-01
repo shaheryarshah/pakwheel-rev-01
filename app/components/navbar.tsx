@@ -2,7 +2,7 @@ import Link from "next/link"
 export default function Navbar() {
   return (<nav>
     <div>
-    <div className="flex  items-left ml-80 justify-left text-white font-bold">
+    <div className="flex  items-left ml-80 justify-left text-white font-bold ">
         <ul className="flex items-center gap-2 text-center justify-center text-white font-bold ">
         <li className="w-3 h-3 flex flex-col"> <img src="https://pakwheel-clone-mtk.vercel.app/images/mobile.png" alt="loading" /></li>
         <li className="flex flex-row items-left mt-3"><Link href="Download App via SMS">Download App via SMS</Link></li>
