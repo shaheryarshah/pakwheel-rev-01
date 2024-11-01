@@ -8,7 +8,7 @@ export default function Car3 (){
             </h1 >
             </div>
             <div className="flex flex-col items-center ">
-            <img className="h-80 w-80"src="https://cache4.pakwheels.com/ad_pictures/1073/honda-civic-vti-oriel-automatic-2000-107376631.webp" alt="Load Image" />
+            <image className="h-80 w-80"src="https://cache4.pakwheels.com/ad_pictures/1073/honda-civic-vti-oriel-automatic-2000-107376631.webp" alt="Load Image" />
             </div>
         
         <div>
